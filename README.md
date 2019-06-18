@@ -1,5 +1,5 @@
 # PlayerNet
-Popularize your game
+*Popularize your game*
 
 ## Background
 The market of video game industry is growing. In any gaming platform, it’s important for game developers to make their new game popular.
