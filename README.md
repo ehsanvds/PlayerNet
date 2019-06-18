@@ -11,7 +11,12 @@ whether they have a lot of friends who are also interested in that genre. So, a 
 and when the friends of the player are also interested in the game, it become popular more quickly.
 
 ## Data
-The data I worked with is from Steam gaming platform, and it was gathered by Intenet Reseach Laboratory (https://steam.internet.byu.edu/)
+The data I worked with is from Steam gaming platform, and it was gathered by [Intenet Reseach Laboratory](https://steam.internet.byu.edu/ "Steam Dataset")
 in format of MySQL database for 109 million users. I had profile data of players, their games, their playing time, and their list of 
 friends. Also, games data were available that I used game genre. I focused on 2.6 million players in Canada with their friend connections 
 in other countries.
+
+## Network Analysis
+
+
+## WebApp
