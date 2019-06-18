@@ -19,7 +19,7 @@ I used network analysis to identify players with relative popularity. That means
 ![alt text](subgraph.png "Subgraph")
 
 ## WebApp
-I developed a [web app](http://ec2-18-220-189-176.us-east-2.compute.amazonaws.com/ "PlayerNet") on Amazon Web Services for the marketing team of game developers. They can choose the genre of a newly developed game and the website shows three players with a link to their profile and their number of friends. There is a different network for each genre and the players are chosen based on their eigenvector centrality score. It should be noted that the data in the web app is from a recent data extraction using Steam web API for small number of users.
+I developed a [web app](http://ec2-18-220-189-176.us-east-2.compute.amazonaws.com/ "PlayerNet") on Amazon Web Services (AWS) for the marketing team of game developers. They can choose the genre of a newly developed game and the website shows three players with a link to their profile and their number of friends. There is a different network for each genre and the players are chosen based on their eigenvector centrality score. It should be noted that the data in the web app is from a recent data extraction using Steam web API for small number of users.
 
 ## Application
 The result of this project has potential to reduce advertisement cost. Instead of advertising on the entire platform or paying the influencer to play a new game, the game developers can offer their game to the right players to make it popular. Also, the process that I used in this project can be implemented in another applications, for example finding high net worth customers or identifying the right customers to introduce them a new product.
